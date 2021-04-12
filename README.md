@@ -12,6 +12,7 @@ Login and sign up page template to start a project from. Does Require Mongodb At
 - [License](#license)
 - [Installation](#Installation)
 
+Run the command in the root of the directory to make sure you have all depenedencies
 ```
 npm install 
 ```
