@@ -6,7 +6,7 @@
 ## Description
 🔍 
 MERN JWT Login Authentication. 
-Login and sign up page template to start a project from. Does Require Mongodb Atlas, and does require filling some information before it is able to run, so make sure you go through the folders and fill in the missing information. Be creative and make it yours. 
+Login and sign up page template to start a project from. Does Require Mongodb Atlas, and does require filling some information before it is able to run, so make sure you go through the folders and fill in the missing code. Be creative and make it yours. 
 ## Table of Contents
 - [Description](#description)
 - [License](#license)
