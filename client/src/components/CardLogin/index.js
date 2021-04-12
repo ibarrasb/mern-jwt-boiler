@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./style.css";
 import API from "../../utils/API";
 
-// Login page
+// Login page info
 
 function CardLogin() {
   
